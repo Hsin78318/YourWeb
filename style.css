@@ -13,16 +13,14 @@
 } /* 此處為導覽列 */
 
 #content {
-  border: 1px solid blue;
+
   position:relative;
   top:78px;
   padding:15px;
   
 } /* 此處MENU內容 */
 
-.container {
-  border: 1px solid #ccc;
-}
+
 
 #about, #my-work, #contact-me {
   
@@ -171,7 +169,7 @@ h1 {
   
 
   .container {
-    border: 1px solid #ccc;  /* 標示用，完成排版後刪除*/
+    
     width: 800px;
     margin: 0 auto;
   }
